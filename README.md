@@ -15,8 +15,8 @@ This project is a simple desktop voice assistant created using Python. It allows
 
 1. **Installation**: Clone or download the project from GitHub.
 2. **Dependencies**: Make sure you have Python installed on your computer.
-3. **Setup**: Install required libraries by running pip install pyttsx3 SpeechRecognition DateTime wikipedia webbrowser pyjokes pyautogui.
-4. **Run**: Execute the main script with your filename.py to start the assistant.
+3. **Setup**: Install required libraries by running **'pip install pyttsx3 SpeechRecognition DateTime wikipedia webbrowser pyjokes pyautogui'**.
+4. **Run**: Execute the main script with your **filename.py** to start the assistant.
 
 ### Usage
 
@@ -34,4 +34,4 @@ This project is a simple desktop voice assistant created using Python. It allows
 Special thanks to the creators of the libraries used in this project for their contributions to the Python ecosystem.
 
 
-*Feel free to modify or expand upon this README as needed for your project!*
+*Feel free to modify or expand upon this README as needed for your project!*    
